@@ -1,0 +1,1 @@
+This is a simple Whack-A-Mole game created using HTML, CSS, and JavaScript. The objective of the game is to hit as many moles as possible before time runs out. The moles randomly pop up from their holes, and the player must click on them to score points.
